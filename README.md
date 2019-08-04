@@ -1,6 +1,7 @@
 # hierarchical clustering in Tensorflow
+![model.png](model.png)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+Algorithm described at [Wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 
 ## License
 See [License](License)
